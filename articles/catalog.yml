@@ -3,7 +3,8 @@ PREDEF:
   - introduction.re
 
 CHAPS:
-  - article.re
+  - 01secondbase.re
+  - 02home.re
 
 POSTDEF:
 # あとがき
