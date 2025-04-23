@@ -4,7 +4,9 @@ PREDEF:
 
 CHAPS:
   - 01secondbase.re
-  - 02home.re
+  - 02secondbasehus.re
+  - 03network.re
+  - 04home.re
 
 POSTDEF:
 # あとがき
