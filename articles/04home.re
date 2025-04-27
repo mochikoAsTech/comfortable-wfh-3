@@ -1,5 +1,40 @@
 = 自宅で追加導入されたもの編
 
+== カメラ
+
+2023年夏に発売されたElgato Facecam Proを発売直後の9月に買って会議用個室に設置。
+
+エルガト ELGATO
+10WAB9901 Facecam Pro 10WAB9901
+
+ * @<href>{https://www.yodobashi.com/product/100000001007956706/}
+
+51,350円？金額要確認。
+
+== ウォールペーパー
+
+カモ井加工紙 mt casa fleece マスキングテープ インテリア用テープ パピエ ティグレ メモリー MTCAF2348 230mm×5m 貼ってはがせる 壁 床 窓ガラス 家具
+販売: Amazon.co.jp
+返品期間：2025年2月13日まで
+2本
+￥2,178
+
+ * @<href>{https://www.amazon.co.jp/dp/B08MF5S3XM}
+
+
+カモ井加工紙 mt CASA FLEECE グレイッシュグリーンMTCAF2354 [230mm幅×5m巻] 剥がせる壁紙
+￥1,500
+ * @<href>{https://www.amazon.co.jp/dp/B09Y1JP7C8}
+
+
+
+カモ井加工紙 mt CASA FLEECE ダルブルーMTCAF2353 [230mm幅×5m巻] 剥がせる壁紙
+￥1,936
+ * @<href>{https://www.amazon.co.jp/dp/B09Y11TSWP}
+
+
+
+
 == 40型ワイド曲面ディスプレイ
 
 書斎にある私のデスクのディスプレイを、31.5型の曲面ディスプレイ@<fn>{display}から40型ワイド曲面ディスプレイに変えた！どかーん！（@<img>{dellDisplay}）
@@ -19,7 +54,21 @@ Dell 40 曲面 USB-Cハブ モニター（U4021QW）は@<ttb>{210,364円}でし�
 
 == チェア
 
+
 == ゴミ箱
+
+HAY
+
+PAPER PAPER BIN
+
+3,300(税込)
+
+
+
+ウォームベージュ
+3,300円
+
+ * @<href>{https://www.hay-japan.com/item/STRY000024.html}
 
 == ワイヤレスヘッドセット
 
