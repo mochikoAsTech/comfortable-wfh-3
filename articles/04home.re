@@ -4,12 +4,22 @@
 
 2023年夏に発売されたElgato Facecam Proを発売直後の9月に買って会議用個室に設置。
 
-エルガト ELGATO
-10WAB9901 Facecam Pro 10WAB9901
 
- * @<href>{https://www.yodobashi.com/product/100000001007956706/}
+(0840006656746)Elgato FACECAM PRO WEBカメラ 4K UHD 60FPS スタジオ品質 プロ級レンズ f/2.0 10WAB9901
+数量: 1
+単価: ￥44,980
 
-51,350円？金額要確認。
+ * @<href>{https://shop.softbankselection.jp/item/0840006656746.html}
+
+== マイクアーム
+
+会議用個室のカメラ交換と同時にマイクアームも交換。
+
+(9760093755188)Elgato Wave Mic Arm LP 薄型デザインマイクアーム 日本語パッケージ
+数量: 1
+単価: ￥12,380
+
+ * @<href>{https://shop.softbankselection.jp/item/9760093755188.html}
 
 == ウォールペーパー
 
@@ -33,7 +43,17 @@
  * @<href>{https://www.amazon.co.jp/dp/B09Y11TSWP}
 
 
+== スーパーウルトラワイド45型液晶モニター
 
+LG 45GR75DC-B Ultragear Curved Gaming Monitor 45-Inch 32:9 Dual QHD 1ms 200Hz VESA DisplayHDR 600 with DCI-P3 95% AMD FreeSync Premium Pro Enhanced Gaming GUI DTS HP:X 3-Way Adjustable Stand - Black
+
+スーパーウルトラワイドモデル
+アスペクト比が32:9 
+
+$796.99
+1ドル155円だったので123,533円
+
+ * @<href>{https://www.amazon.com/dp/B0CGFD39D1}
 
 == 40型ワイド曲面ディスプレイ
 
@@ -87,3 +107,59 @@ PAPER PAPER BIN
 充電スタンド付きのAnker PowerConf H700（A3510034）は@<ttb>{14,980円}でした。
 
  * @<href>{https://www.ankerjapan.com/products/a3510}
+
+== Stream Deck
+
+夫のデスクで追加されたのがStream Deck。
+
+￥21,320	
+	
+エルガト ELGATO
+Elgato Stream Deck MK.2 日本語パッケージ ショートカットコントローラー ブラック 10GBA9900-JP
+
+ * @<href>{https://www.yodobashi.com/product/100000001006673482/}
+
+== USB指紋認証アダプター
+
+夫のデスク。
+
+ * @<href>{https://www.yodobashi.com/product/100000001008476145/}
+	
+テック TEC
+USB指紋認証アダプター Windows 11/10生体認証 Windows Hello対応 TE-FPA2
+
+
+￥4,370	
+
+
+== 視野角スーパーワイドWebカメラ
+
+買ったけど全然だめで終了。
+
+￥17,680
+
+ * @<href>{https://www.yodobashi.com/product/100000001008684119/}
+
+	
+ストリームプリファイ Streamplify
+CAM Pro Webカメラ 850万画素 Sony製CMOSセンサー 4K 30FPS/視野角スーパーワイド 105°三脚付属 ブラック CAM-PRO-4K-8M30-BK
+
+== Webカメラ
+
+これもだめ。
+
+ * @<href>{https://www.yodobashi.com/product/100000001006235865/}
+	
+ポリー Poly
+Studio P5 高性能 4倍ズーム フォーカス型指向性マイク フルHD Web カメラ PPUSB-RSTDP5
+
+￥19,200	
+
+== 4K Webカメラ
+
+
+OBSBOT MEET 2 4K Webカメラ ウェブカメラ AI搭載 4800万画素 HDR 位相差検出AF フィルター加工 ノイズ低減マイク ライブ配信 ビデオ通話 PC Mac Windows (グレー)
+
+21,800円
+
+ * @<href>{https://www.amazon.co.jp/dp/B0D9W7J9SK}
