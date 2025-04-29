@@ -66,6 +66,20 @@ JPY ￥17,900
 標準パイプアダプター
 JPY ￥5,500
 
+屋上設置のために
+
+Standard Starlink Cable 45m
+￥17,900
+
+Standard Pipe Adapter
+￥5,500
+
+現地調査代金　10000円
+実機テスト（通信テスト※アクティベートしたアンテナによる通信テスト）　10000円
+出張費（1回分）　27000円
+上記合計　47000円（税込51700円）
+
+
 
 
 == モバイルルーター
@@ -97,10 +111,13 @@ Type-C LAN変換アダプター（PD充電 対応）ブラック GP-CR45H/B
  * @<href>{https://www.yodobashi.com/product/100000001008012542/}
 
 == UPS（無停電電源装置）
-	
+
+ルーター用と、妻の足元用で2台購入。
+
 エーピーシー APC
 APC ES 425VA Battery Backup and Surge Protector 100V BE425M-JP
-￥10,200	
+￥10,200
+
  * @<href>{https://www.yodobashi.com/product/100000001003421210/}
 
 

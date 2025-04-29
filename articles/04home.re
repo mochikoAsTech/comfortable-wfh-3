@@ -74,6 +74,33 @@ Dell 40 曲面 USB-Cハブ モニター（U4021QW）は@<ttb>{210,364円}でし�
 
 == チェア
 
+Ergohuman PRO2 ottomanのBKフレーム×RDメッシュ
+Ergohuman PRO2 ottomanのGYフレーム×WHメッシュ
+
+151,800円×2台
+
+2023年11月、自宅用に購入。
+いい椅子なんだけど座ってみたら私も夫もメッシュ素材があんまり好きでなかったので、その後にSteelcaseを購入。
+
+4ヶ月弱待つことに。
+
+1. 張地：KR13（Blue Gold Shift）
+　・Frameが7243（Seagull）
+　・Rear frame、Arms、Baseが7243（Seagull）
+　・アジャスタブルアーム
+　・ランバーサポートあり
+　・ヘッドレストなし
+2. 張地：KR12（Red Blue Shift）
+　・Frameが7360（Merle）
+　・Rear frame、Arms、Baseが4B20（Lux Obsidian）
+　・アジャスタブルアーム
+　・ランバーサポートあり
+　・ヘッドレストあり
+
+オーダーメイドで頼んでたSteelcase Karmanがきたー！やっぱり座り心地が圧倒的によいー！Ergohuman PRO2 Ottomanよりずっとしっくりくる。私にはこっちの方があってる……好き……箱から出すのはめちゃくちゃ大変だった……でも好き。
+
+ヘッドレストありが229,000円、なしが188,000円、合計417,000円、2台で税込み458,700円
+
 
 == ゴミ箱
 
@@ -163,3 +190,27 @@ OBSBOT MEET 2 4K Webカメラ ウェブカメラ AI搭載 4800万画素 HDR 位�
 21,800円
 
  * @<href>{https://www.amazon.co.jp/dp/B0D9W7J9SK}
+
+== UPS（無停電電源装置）
+
+ポータブル電源を夫のデスク足元でUPS代わりに使用。
+
+Anker Solix C1000 Portable Power Station - ダークグレー
+A1761-GRAY	
+通常価格
+¥79,900
+
+【プレゼント用】Anker Solix C1000 / C800 専用防塵 & 防水バッグ - ブラック
+A17Z4-BLACK-CP	
+
+ディスカウント
+ RWD50000_1
+-¥50,000
+ディスカウント
+ RWD24000_1
+-¥24,000
+送料 (無料配送)	¥0
+内税 (CT 10.0%)	¥536
+合計	¥5,900 JPY
+
+
