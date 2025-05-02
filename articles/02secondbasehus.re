@@ -98,7 +98,7 @@ YSAGi レザー デスクパッド オフィス デスクマット マウス対�
 
 == 遮光ブラインド
 
-窓ガラスの手前にこの「Guard Total Blackout Blinds」というを付けた
+窓ガラスの手前にこの「Guard Total Blackout Blinds」という遮光ブラインドを付けた。
 
  * @<href>{https://guardblinds.com/products/guard-total-blackout-blinds}
 
@@ -106,3 +106,10 @@ YSAGi レザー デスクパッド オフィス デスクマット マウス対�
 
 冷蔵庫ある。
 
+日立 冷蔵庫 小型 73L ダークグレー Chiiil チール R-MR7S
+
+ * @<href>{https://kadenfan.hitachi.co.jp/rei/lineup/rmr7s/}
+
+== カウチベッド
+
+注文中。
