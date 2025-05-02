@@ -95,3 +95,14 @@ YSAGi レザー デスクパッド オフィス デスクマット マウス対�
 ルーターとぱちょこんの手前にUPSを挟むと、停電から15分くらいアディショナルタイム与えられるのでよい
 
 リリースの最中に停電したときとか、遺言くらいは残せる猶予が与えられる。。
+
+== 遮光ブラインド
+
+窓ガラスの手前にこの「Guard Total Blackout Blinds」というを付けた
+
+ * @<href>{https://guardblinds.com/products/guard-total-blackout-blinds}
+
+== 冷蔵庫
+
+冷蔵庫ある。
+
