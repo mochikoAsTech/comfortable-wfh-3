@@ -23,7 +23,7 @@ language: ja
 
 # 書名
 booktitle: {name: "最高のおうちオフィスではたらく vol. 3", file-as: "サイコウノオウチオフィスデハタラクツー"}
-subtitle: {name: "快適なリモートワーク環境の作り方", file-as: "カイテキナリモートワークカンキョウノツクリカタ"}
+subtitle: {name: "海が見える2拠点目で快適リモートワーク", file-as: "ウミガミエルニキョテンメデカイテキリモートワーク"}
 
 # 著者名。「, 」で区切って複数指定できる
 aut: [{name: "mochikoAsTech", file-as: "モチコアズテック"}]
