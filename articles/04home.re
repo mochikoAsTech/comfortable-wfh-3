@@ -50,13 +50,19 @@ KING JIMのデジタルメモ ポメラ（DM250）は@<ttb>{44,950円}でした�
 
  * @<href>{https://shop.softbankselection.jp/item/0840006656746.html}
 
-== マイクアーム
+=={micarm} マイクアーム
 
-会議用個室のカメラ交換と同時にマイクアームも交換。
+会議用個室のカメラ交換と同時にマイクアームも交換。もともとはこんなふうにディスプレイの上から下ろして顔の前に来るようにおいていた。（@<img>{micBefore}）
 
-(9760093755188)Elgato Wave Mic Arm LP 薄型デザインマイクアーム 日本語パッケージ
-数量: 1
-単価: ￥12,380
+//image[micBefore][ディスプレイの下を通してマイクを口元に持ってくる][scale=1]{
+//}
+
+それをディスプレイの下をくぐらせる形に変更した。（@<img>{micAfter}）
+
+//image[micAfter][ディスプレイの下を通してマイクを口元に持ってくる][scale=1]{
+//}
+
+Elgato Wave Mic Arm LP 薄型デザインマイクアーム（9760093755188）は@<ttb>{12,380円}でした。
 
  * @<href>{https://shop.softbankselection.jp/item/9760093755188.html}
 
