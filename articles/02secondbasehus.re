@@ -15,6 +15,60 @@
 
  * @<href>{https://item.rakuten.co.jp/ergotron/e1r010k/}
 
+== キーボード
+
+KOBO-UB01-MPS-NFMB3【4228】
+Majestouch 3 BLACK Tenkeyless 「漆/漆黒」SILENT RED 静音赤軸・テンキーレス・日本語かななし
+
+FILCOキーボード工房 | 漆・漆黒 七分艶モデル
+
+KOBO-UB01-MPS-NFMB3【4228】
+22,500円
+
+ * @<href>{https://www.diatec.co.jp/shop/kobo/ursblack.php?page=9}
+
+== マウス
+
+	
+ロジクール Logicool
+MX Vertical アドバンス エルゴノミック ワイヤレスマウス グラファイト MXV1s
+
+￥12,610
+x2で￥25,220	
+
+https://www.yodobashi.com/product/100000001004035691/
+
+== デスクマット
+
+YSAGi レザー デスクパッド オフィス デスクマット マウス対応 大型マウスパッド ノンスリップ PUレザー デスクブロッター ラップトップデスクパッド 家庭用防水 デスクライティングパッド
+
+
+@<ttb>{2,079円}
+
+サイズ: 100*55cm
+ブラック
+
+ * @<href>{https://www.amazon.co.jp/dp/B0DG4VDX24}
+
+== キャビネット
+
+デスクの足元で左下に収まっているのがSteelcaseのEdviキャビネット。普通の袖机だと引き出しを引っ張るための取っ手もしくは窪みがあるが、このキャビネットは少し押すとふわりと引き出しが飛び出てくる機構で、前面に凸凹がなくつるっとしていてデザインがよい。（@<img>{edvi}）
+
+//image[edvi][足元に収まるキャビネット][scale=0.6]{
+//}
+
+Edviキャビネットには専用のクッションが付いていて耐荷重も136kgまでいける。クッションがかなりふかふかなので夫と書斎で話したいときに引っ張り出して私が腰掛けることもできるし、考え事をするときに足を載せてフットレスト代わりに使うこともできる。
+
+公式のオンラインストアだと特定の色しか選べないけど、販売代理店を経由して頼むと上と下の引き出しで色を変えたり、クッションも100種類以上のカラーバリエーションから選べたりと自由にカスタムオーダーできる模様。私も深緑と白を組み合わせてディップコンボで作りたくなってきた。（@<img>{edviCatalog}）
+
+//image[edviCatalog][SteelcaseのEdviカタログから引用][scale=1]{
+//}
+
+Edvi キャビネット マール（ダークキャスター） クッショントップ付きは、74,980円が新生活応援セールの20%オフで@<ttb>{59,984円}でした。
+
+ * @<href>{https://jp.steelcase.com/products/edvi}
+ * @<href>{https://www.steelcase.com/asia-ja/products/lateral-files-pedestals/edvi/}
+
 == チェア
 
 ハーマンミラー コズムチェア
@@ -40,28 +94,6 @@
 
  * @<href>{https://exgel.jp/jpn/product/cuddle/}
 
-== キーボード
-
-KOBO-UB01-MPS-NFMB3【4228】
-Majestouch 3 BLACK Tenkeyless 「漆/漆黒」SILENT RED 静音赤軸・テンキーレス・日本語かななし
-
-FILCOキーボード工房 | 漆・漆黒 七分艶モデル
-
-KOBO-UB01-MPS-NFMB3【4228】
-22,500円
-
- * @<href>{https://www.diatec.co.jp/shop/kobo/ursblack.php?page=9}
-
-== マウス
-
-	
-ロジクール Logicool
-MX Vertical アドバンス エルゴノミック ワイヤレスマウス グラファイト MXV1s
-
-￥12,610
-x2で￥25,220	
-
-https://www.yodobashi.com/product/100000001004035691/
 
 == ダクトレールファン
 
@@ -73,30 +105,11 @@ BRID DUCT RAIL FAN DC plus φ50（003329）は@<ttb>{16,940円}でした。
 
  * @<href>{https://item.rakuten.co.jp/flaner/10021474/}
 
-== キャビネット
+== エアコン
 
-Steelcase
+risora Custom Style（リソラ カスタムスタイル）
 
-Edvi キャビネット
-マール（ダークキャスター） / クッショントップ付
-
-ディスカウント  NEWLIFE
-
-74,980円が新生活応援セールの20%オフで59,984円でした。
-
- * @<href>{https://jp.steelcase.com/products/edvi}
-
-== デスクマット
-
-YSAGi レザー デスクパッド オフィス デスクマット マウス対応 大型マウスパッド ノンスリップ PUレザー デスクブロッター ラップトップデスクパッド 家庭用防水 デスクライティングパッド
-
-
-@<ttb>{2,079円}
-
-サイズ: 100*55cm
-ブラック
-
- * @<href>{https://www.amazon.co.jp/dp/B0DG4VDX24}
+ * @<href>{https://www.ac.daikin.co.jp/risora/customstyle}
 
 == UPS
 
@@ -113,14 +126,32 @@ YSAGi レザー デスクパッド オフィス デスクマット マウス対�
 
  * @<href>{https://guardblinds.com/products/guard-total-blackout-blinds}
 
-== 冷蔵庫
+== 小型冷蔵庫
 
-冷蔵庫ある。
+声を大にして言いたい。冷蔵庫は複数あったほうがいい。寝室のベッド脇と書斎に飲み物が詰まった小型冷蔵庫のある生活は最高です。キッチンまで歩いてすぐじゃん、と思われるだろうがどうか騙されたと思って寝室と書斎に冷蔵庫を置いてみてほしい……！
 
-日立 冷蔵庫 小型 73L ダークグレー Chiiil チール R-MR7S
+自宅と同じく2拠点目においても、キッチンと寝室と書斎@<fn>{freezer}の3箇所に冷蔵庫を設置しました。
+
+//footnote[freezer][「最高のおうちオフィスではたらく」の「4.21 小型冷蔵庫」を参照。]
+
+夫の書斎に置いたのは日立のChiiil（チール）という冷蔵庫。ACTUSと日立のコラボで、全体的にくすみカラーの10色展開。変なロゴとか柄とかがない、本当にただの箱みたいなシンプルな見た目がおしゃれ。（@<img>{freezer}）
+
+//image[freezer][デスクの右手に鎮座する冷蔵庫][scale=1]{
+//}
+
+日立のChiiil 73L 右開き ダークグレー（R-MR7S HD）は@<ttb>{61,550円}でした。
 
  * @<href>{https://kadenfan.hitachi.co.jp/rei/lineup/rmr7s/}
 
 == カウチベッド
 
-注文中。
+考え事するときにごろっと横になりたい夫は、書斎で使えるフラットなカウチソファをずっと探していた。仕事の邪魔にならないよう横幅は狭くていいけど、身長がかなり高いので縦幅は長いもの、となるとなかなか見つからない。何ヶ月も探してようやく見つけたのがACTUSのFLADフラットソファだった。
+
+横幅が70cmで、縦幅が180cmと期待通りのサイズ感。張り地も選べるし、脚の色や高さも選んでカスタムオーダーできる。注文からおおよそ3ヶ月かかるということなので、いまは楽しみに到着を待っている。メインで暮らす家だと日々の「生活」は待ってくれないので、こうやって本当に気に入る家具が見つかるまでじっくり探したり、オーダーから出来上がりまで何ヶ月も待ったりすることは難しいけど、2拠点目だと待てるというのが発見だった。（@<img>{flad}）
+
+//image[flad][ACTUSオンラインショップから引用][scale=1]{
+//}
+
+ACTUSのソファブランド、five by fiveのFLADフラットソファ ピローセット オーク材ブラック塗装レッグ 38cm ブラックのヌバックレザー APコーティングは配送料込みで@<ttb>{346,149円}でした。
+
+ * @<href>{https://online.actus-interior.com/item/2249984/}

@@ -138,7 +138,10 @@ Dell 40 曲面 USB-Cハブ モニター（U4021QW）は@<ttb>{210,364円}でし�
 
 //footnote[kurogane][Steelcase公式のショールームもあるんだけど、そっちは数か月先まで予約がいっぱいだったので、くろがね工作所という販売代理店のショールームを事前に予約して行った。 @<href>{https://www.kurogane-kks.co.jp/corporate/showroom.html}]
 
-ふたりともSteelcase Karmanにして、私の方は張地がKR13（Blue Gold Shift）、Frameが7243（Seagull）、Rear frameとArmsとBaseが7243（Seagull）、アジャスタブルアーム、ランバーサポートあり、ヘッドレストなし。夫の方は張地がKR12（Red Blue Shift）、Frameが7360（Merle）、Rear frameとArmsとBaseが4B20（Lux Obsidian）、アジャスタブルアーム、ランバーサポートあり、ヘッドレストありにした。
+ふたりともSteelcase Karmanにして、私の方は張地がKR13（Blue Gold Shift）、Frameが7243（Seagull）、Rear frameとArmsとBaseが7243（Seagull）、アジャスタブルアーム、ランバーサポートあり、ヘッドレストなし。夫の方は張地がKR12（Red Blue Shift）、Frameが7360（Merle）、Rear frameとArmsとBaseが4B20（Lux Obsidian）、アジャスタブルアーム、ランバーサポートあり、ヘッドレストありにした。（@<img>{karmanblue}）
+
+//image[karmanblue][角度によってブルーにもイエローにもグリーンにも見える私のkarman][scale=0.6]{
+//}
 
 2024年の6月上旬に発注して支払い、7月末にアメリカの工場から船で出荷されて、9月中旬にようやく東京湾に着いて通関手続き、そして9月下旬に我が家に到着……4ヶ月弱はさすがにちょっと長かった。でも届いたSteelcase Karmanはやっぱり座り心地が圧倒的によい。Ergohuman PRO2 Ottomanと比べてすごくしっくりくる。私にはこっちの方があってる……好き……梱包を解くのはサービスに入っていないので、玄関先に箱ごとドンっと置いていかれて箱から出すのがすごく大変だったけどやっぱりSteelcase大好き。（@<img>{karman}）
 
@@ -157,7 +160,10 @@ SteelcaseのPlease Chairは座面がクッション素材だった。しかも�
 
 //footnote[3d][「最高のおうちオフィスではたらく」の「3.8 座面ジェルクッション」を参照。]
 
-そこで同じエクスジェル シーティングラボに、ザ・アウルよりも薄型のカドルというシリーズがあったのでそちらに変更。厚さ2.6cmで、カバーは洗濯できるウルトラスエード、さらさらした手触りだけど裏面には滑り止めが付いているので使いやすい。
+そこで夫のチェアで使うクッションを、同じエクスジェル シーティングラボにあったザ・アウルよりも薄型のカドルというシリーズに変更。厚さ2.6cmで、カバーは洗濯できるウルトラスエード、さらさらした手触りだけど裏面には滑り止めが付いているので使いやすい。（@<img>{cuddlegel}）
+
+//image[cuddlegel][経年で段々裏の滑り止めが効かなくなってきているとのこと][scale=0.8]{
+//}
 
 エクスジェル シーティングラボのカドル スクエア46 ブラック/ネイビーは、@<ttb>{22,000円}でした。
 
@@ -165,16 +171,12 @@ SteelcaseのPlease Chairは座面がクッション素材だった。しかも�
 
 == ゴミ箱
 
-HAY
+HAYのゴミ箱がかわいい。薄くて軽いのにしっかりとした紙でできていて、ねじれたような立体型が本当にかわいい。（@<img>{binbeige}）
 
-PAPER PAPER BIN
+//image[binbeige][あまりの可愛さに2拠点目も同じゴミ箱の色違いにした][scale=0.6]{
+//}
 
-3,300(税込)
-
-
-
-ウォームベージュ
-3,300円
+HAYのPAPER PAPER BIN ウォームベージュは@<ttb>{3,300円}でした。
 
  * @<href>{https://www.hay-japan.com/item/STRY000024.html}
 
