@@ -95,6 +95,8 @@ LG 45GR75DC-B Ultragear Curved Gaming Monitor 45-Inch 32:9 Dual QHD 1ms 200Hz VE
 スーパーウルトラワイドモデル
 アスペクト比が32:9 
 
+
+
 $796.99
 1ドル155円だったので123,533円
 
@@ -184,47 +186,116 @@ HAYのPAPER PAPER BIN ウォームベージュは@<ttb>{3,300円}でした。
 
 家じゃなくて出先で会議したり、登壇したりするとき、AirPodsみたいなイヤホンのマイクだと心許ないので、もうちょっといいマイク付きヘッドセットが欲しいなー！Bluetoothで繋がるやつがいい！と思ってAnkerのPowerConf H700を買った。
 
-コロナ禍も落ち着いて、以前よりはオフィスではたらく機会が増えてきた。出社したときに、貧弱なマイクでZoom会議に参加すると他の人に迷惑だし、特に通訳さんがいる会議だと耳障りな音で負担をかけることになるので申し訳ない。これがあればどこでも安定したいい音で話せるし、出社時は付属のハードトラベルケースケースにしまえば安心して持っていける。
+コロナ禍も落ち着いて、以前よりはオフィスではたらく機会が増えてきた。出社したときに貧弱なマイクでZoom会議に参加すると他の人に迷惑だし、特に通訳さんがいる会議だと耳障りな音で負担をかけることになるので申し訳ない。これがあればどこでも安定したいい音で話せるし、出社時は付属のハードトラベルケースケースにしまえば安心して持っていける。
 
-あと専用の充電スタンドも付いているのがいい。使い終わったらスタンドに戻すだけで充電される。定位置がないとすぐに無くしたり、使おうとしたら充電が切れていたりするダメな人間なので、とてもありがたい。
+あと専用の充電スタンドも付いているのがいい。使い終わったらスタンドに戻すだけで充電される。定位置がないとすぐに無くしたり、使おうとしたら充電が切れていたりするダメな人間なので、とてもありがたい。かなり気に入ったので、会議用個室に入るほどではないちょっとしたミーティングのときは自席でこのヘッドセットを使って参加することも多い。（@<img>{powerconf}）
 
-それから自分が喋ってる途中で突然くしゃみが出そうになったときは、マイクの部分をくるっと上に持ち上げればミュートになる。ただマイク側でミュートにしているだけで、Zoomなどのソフトウェア上で相手から見える状態は音が入っているままなので、「ミュートしてる？いや、してない？」とちょっと不思議な顔をされる。
+//image[powerconf][定位置にちゃんと戻すと青く光って充電が確認できる][scale=0.6]{
+//}
 
-起動直後は30秒くらい振動音がする点と、Zoom会議に入るたびになぜか外部音取り込みモードになるのでいちいちボタンをぽちぽちしてノイズキャンセリングモードに直さなきゃいけない点だけ気になるけど、それ以外は満足している。自宅でも使えて、オフィスにも持っていける手頃な値段のマイクを探していると言われたらこのヘッドセットをお勧めしてたんだけど、2025年現在はもう販売終了になってしまったみたいだ。残念。
+それから自分が喋ってる途中で突然くしゃみが出そうになったときは、マイクの部分をくるっと上に持ち上げればミュートになる。ただマイク側でミュートにしているだけで、Zoomなどのソフトウェア上で相手から見える状態はアンミュートのままなので、「声が聞こえない……ミュートしてる？いや、してない？」とちょっと不思議な顔をされる。
 
-しかし本来、オフィスははたらくための設備が整っている場所のはずなんだけど、おうちオフィスを整備した結果、家にいるときより出社したときの方がカメラもマイクも品質が下がるのは何の逆転現象なんだろうと思ってしまう。
+起動直後は30秒くらい振動音がする点と、ノイズキャンセリングモードにしていてもZoom会議に入るたびになぜか外部音取り込みモードに自動で切り替わるのでいちいちボタンをぽちぽちしてノイズキャンセリングモードに直さなきゃいけない点だけ気になるけど、それ以外は満足している。自宅でも使えて、オフィスにも持っていける手頃な値段のマイクを探していると言われたらこのヘッドセットをお勧めしてたんだけど、2025年現在はもう販売終了になってしまったみたいだ。残念。
+
+しかし本来、オフィスははたらきやすい設備が整っている場所のはずなんだけど、おうちオフィスを整備した結果、家にいるときより出社したときの方がカメラもマイクも品質が下がる現象は何なのだろうと思ってしまう。
 
 充電スタンド付きのAnker PowerConf H700（A3510034）は@<ttb>{14,980円}でした。
 
  * @<href>{https://www.ankerjapan.com/products/a3510}
 
+
+=={display45} 45型ワイドディスプレイ
+
+
+アスペクト比32:9のスーパーウルトラワイドモデル。
+
+
+45" UltraGear™ QHD 1440P 1ms 200Hz Curved Gaming Monitor with USB Type-C™
+
+Order Summary
+Item(s) Subtotal:
+$796.99
+Shipping & Handling:
+$0.00
+Total before tax:
+$796.99
+Estimated tax to be collected:
+$0.00
+Grand Total:
+$796.99
+
+1ドル155.25円
+
+LGの
+45" UltraGear™ QHD 1440P 1ms 200Hz Curved Gaming Monitor with USB Type-C™
+
+LG 45GR75DC-B Ultragear Curved Gaming Monitor 45-Inch 32:9 Dual QHD 1ms 200Hz VESA DisplayHDR 600 with DCI-P3 95% AMD FreeSync Premium Pro Enhanced Gaming GUI DTS HP:X 3-Way Adjustable Stand - Black
+
+ * @<href>{https://www.amazon.com/dp/B0CGFD39D1}
+
+== キーボードラック型ドッキングステーション
+
+夫のデスクで、ドッキングステーションを
+
+
+Anker 675 USB-C ドッキングステーション (12-in-1, Monitor Stand, Wireless)
+
+Order placed
+April 23, 2023
+Total
+$302.03
+Ship to
+Yuki Horikoshi 
+Order # 114-4641402-2413018
+View order details  View invoice
+Anker 675 USB-C Docking Station (12-in-1, Monitor Stand, Wireless) with 10Gbps USB-C Ports, 4K@60Hz HDMI Display, Wireless Charging Pad, for Lenovo ThinkPad, MacBook Pro M1 / M2 and More
+Anker 675 USB-C Docking Station (12-in-1, Monitor Stand, Wireless) with 10Gbps USB-C Ports, 4K@60Hz HDMI Display, Wireless Charging Pad, for Lenovo ThinkPad, MacBook Pro M1 / M2 and More USB-C Devices
+
+Anker 675 USB-C ドッキングステーション (12-in-1, Monitor Stand, Wireless)は
+
+1ドル134.32円
+
+Order Summary
+Item(s) Subtotal:$249.99
+Shipping & Handling:$24.58
+Total before tax:$274.57
+Estimated tax to be collected:$0.00
+Import Fees Deposit$27.46
+Grand Total:$302.03
+Refund Total:$13.25
+
+
 == Stream Deck
 
-夫のデスクで追加されたのがStream Deck。
+夫のデスクで追加されたのがStream Deck。会議中にボタンひとつでミュートやアンミュートできるのが便利とのこと。マウスカーソルをミュートボタンに合わせて押すでもいいし、キーボードショートカットを覚えるでもいいんだけど、やっぱり物理ボタンがあると便利な瞬間ってあるよなと思う。（@<img>{streamdeck}）
 
-￥21,320	
+//image[streamdeck][15個あるボタンのうちまだ半分くらいしか埋まっていない][scale=0.1]{
+//}
 	
-エルガト ELGATO
-Elgato Stream Deck MK.2 日本語パッケージ ショートカットコントローラー ブラック 10GBA9900-JP
+ElgatoのStream Deck MK.2（10GBA9900-JP）は@<ttb>{21,320円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001006673482/}
 
 == USB指紋認証アダプター
 
-夫のデスク。
+ディスプレイが大きくなった結果、ノートパソコンは邪魔にならない位置に閉じた状態で置くようになってしまったので、Windowsにログインする際に指紋認証機能が使えなくなってしまった。そこでキーボードラック型ドッキングステーションの左側に指紋認証アダプターを設置。（@<img>{finger}）
+
+//image[finger][キーボードラックの左側にある銀色の指紋認証アダプター][scale=0.1]{
+//}
+
+Windowsの指紋認証機能に対応しているので、このUSB Type-Aのアダプターを挿すだけで指紋認証がすぐに使える。こんなアダプターがあること自体を知らなかったので驚いた。指紋認証機能が付いていないWindowsのパソコンに、後付けで追加できて便利！
+
+TECのUSB指紋認証アダプター（TE-FPA2）は@<ttb>{4,370円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001008476145/}
-	
-テック TEC
-USB指紋認証アダプター Windows 11/10生体認証 Windows Hello対応 TE-FPA2
-
-
-￥4,370	
-
 
 == 視野角スーパーワイドWebカメラ
 
+ディスプレイを買えたタイミングでなんとなく新しいカメラを探してた。
+
 買ったけど全然だめで終了。
+
+横長で視野角が広すぎた。左右が必要以上に映ってしまう。
 
 ￥17,680
 
@@ -237,6 +308,7 @@ CAM Pro Webカメラ 850万画素 Sony製CMOSセンサー 4K 30FPS/視野角ス�
 == Webカメラ
 
 これもだめ。
+画質が悪すぎた。
 
  * @<href>{https://www.yodobashi.com/product/100000001006235865/}
 	
@@ -245,18 +317,25 @@ Studio P5 高性能 4倍ズーム フォーカス型指向性マイク フルHD 
 
 ￥19,200	
 
-== 4K Webカメラ
+== AI搭載4Kウェブカメラ
 
+Webカメラのジャンルで頭角を現してきたのが中国のRemo Techという会社が作ったOBSBOT。OBSBOT Meet 2はパーティーのフィンガーフードみたいにつまめるサイズの小さなカメラなのにすごく画質がいい。（@<img>{obsbotMeet}）
 
-OBSBOT MEET 2 4K Webカメラ ウェブカメラ AI搭載 4800万画素 HDR 位相差検出AF フィルター加工 ノイズ低減マイク ライブ配信 ビデオ通話 PC Mac Windows (グレー)
+//image[obsbotMeet][小さいけれど画質はいい][scale=0.1]{
+//}
 
-21,800円
+こんなに小さいのに、対象者が動いてもカメラが自動で追いかけるオートフレーミングの機能があったり、手のジェスチャでズームインやズームアウトができたりと多機能。しかもクラウドホワイト、スペースグレイというありがちな白と黒の他に、オーロラグリーンというすごくかわいい色がある。オートフォーカスの速度が速くてシュッとピントを合わせてくれるところがいい。
+
+OBSBOT Meet 2 スペースグレイは@<ttb>{21,800円}でした。
 
  * @<href>{https://www.amazon.co.jp/dp/B0D9W7J9SK}
 
 == UPS（無停電電源装置）
 
-ポータブル電源を夫のデスク足元でUPS代わりに使用。
+ポータブル電源を夫のデスク足元でUPS代わりに使用。（@<img>{ankerSolix}）
+
+//image[ankerSolix][後ろ向きで置かれているUPS][scale=0.1]{
+//}
 
 Anker Solix C1000 Portable Power Station - ダークグレー
 A1761-GRAY	
@@ -276,4 +355,4 @@ A17Z4-BLACK-CP
 内税 (CT 10.0%)	¥536
 合計	¥5,900 JPY
 
-
+ * @<href>{https://www.ankerjapan.com/products/a1761}
