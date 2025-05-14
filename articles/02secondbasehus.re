@@ -6,16 +6,41 @@
 
 == デスク
 
-夫の書斎では、部屋の角に向かって座るL字形のデスクを造作してもらった。（@<img>{deskHus}）
+私の書斎と夫の書斎はほぼ同じサイズなんだけど、夫はデイベッド@<fn>{daybed}を置きたかったのでそちらと干渉しないように角のスペースを効率よく使う形になっている。（@<img>{husroom}）
 
-//image[deskHus][造作だと幅も奥行きも形も好みにできるので最高][scale=1]{
+//footnote[daybed][@<chapref>{02secondbasehus}の@<hd>{02secondbasehus|daybed}で後述。]
+
+//image[husroom][同じ書斎だけど壁の色も使い方も全然違う][scale=1]{
 //}
+
+部屋の角に向かって座るL字形のデスクは、すぐ脇にある冷蔵庫やキャビネットも使いやすい。（@<img>{deskHus}）
+
+//image[deskHus][突き当たりの角に向かって座るデスク][scale=1]{
+//}
+
+ふたりの書斎の間には開閉できる横長の室内窓を付けた。風が吹き抜けるようにしたいときは開けて、集中したいときは閉めて使っている。
+
+このデスクは鉛筆書きをリフォーム会社に渡す形で要望をつたえて造作してもらった。結局、要望をつたえればそれを叶える方法は彼らが考えてくれるけど、部屋をどう使いたいのかという要望そのものは自分で考えないといけなくて、そこがはっきりしている夫はすごいなと思う。（@<img>{sketch}）
+
+//image[sketch][夫の手描きスケッチ][scale=1]{
+//}
+
+=={risoraHus} エアコン
+
+夫の書斎のエアコンも、私の書斎と同じrisora@<fn>{risora}。本体カラーがダークグレーで、パネルカラーはガーネット。（@<img>{airconRed}）
+
+//footnote[risora][私の書斎のrisoraは@<chapref>{01secondbase}の@<hd>{01secondbase|risora}を参照。]
+
+//image[airconRed][天井の色に合わせた赤いエアコンパネル][scale=0.8]{
+//}
+
+ * @<href>{https://www.ac.daikin.co.jp/risora/customstyle}
 
 == モニターマウント
 
-自宅に45型のワイドディスプレイ@<fn>{display45}を導入したので、元々使っていた43.4型曲面ディスプレイを2拠点目へ移動。
+自宅に45型のワイドディスプレイ@<fn>{display45}を導入したので、自宅で元々使っていた43.4型曲面ディスプレイを2拠点目へ移動。
 
-//footnote[display45][自宅で導入されたの45型ワイドディスプレイについては、@<chapref>{04home}の@<hd>{04home|display45}を参照。]
+//footnote[display45][自宅で新たに導入された45型ワイドディスプレイについては、@<chapref>{04home}の@<hd>{04home|display45}を参照。]
 
 ディスプレイを支える高さ調整可能なモニターマウントはエルゴトロンにした。エレベーターに電車のパンタグラフを付けたような構造になっていて、上下の昇降も回転も前後の移動も傾きもかなり自由に動かせる。（@<img>{ergotronTrace}）
 
@@ -28,7 +53,7 @@ ErgotronのTRACEモニターマウント ブラック（45-630-224）は@<ttb>{5
 
 == AI搭載4Kウェブカメラ
 
-私の書斎で使ってみたOBSBOT Tiny SEがよかったので、夫も同じものを購入。（@<img>{obsbotTinySeHus}）
+先に私の書斎で使ってみたOBSBOT Tiny SEがよかったので、夫も同じものを購入。（@<img>{obsbotTinySeHus}）
 
 //image[obsbotTinySeHus][使っていないときはカメラ部分が勝手に下を向いてうなだれる][scale=0.6]{
 //}
@@ -134,11 +159,6 @@ BRID DUCT RAIL FAN DC plus φ50（003329）は@<ttb>{16,940円}でした。
 
  * @<href>{https://item.rakuten.co.jp/flaner/10021474/}
 
-== エアコン
-
-risora Custom Style（リソラ カスタムスタイル）
-
- * @<href>{https://www.ac.daikin.co.jp/risora/customstyle}
 
 == UPS
 
@@ -179,7 +199,7 @@ risora Custom Style（リソラ カスタムスタイル）
 
  * @<href>{https://kadenfan.hitachi.co.jp/rei/lineup/rmr7s/}
 
-== カウチベッド
+=={daybed} デイベッド
 
 考え事するときにごろっと横になりたい夫は、書斎で使えるフラットなカウチソファをずっと探していた。仕事の邪魔にならないよう横幅は狭くていいけど、身長がかなり高いので縦幅は長いもの、となるとなかなか見つからない。何ヶ月も探してようやく見つけたのがACTUSのFLADフラットソファだった。
 
