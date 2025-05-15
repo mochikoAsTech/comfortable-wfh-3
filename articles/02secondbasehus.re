@@ -60,7 +60,7 @@ ErgotronのTRACEモニターマウント ブラック（45-630-224）は@<ttb>{5
 //image[obsbotTinySeHus][使っていないときはカメラ部分が勝手に下を向いてうなだれる][scale=0.6]{
 //}
 
-OBSBOT TINY SE Webカメラ 1080P 100FPS 60PFS フルHD ウェブカメラ AI搭載 自動追跡 1/2.8 CMOS HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows
+OBSBOT TINY SE ウェブカメラ 1080P 100FPS 60PFS フルHD ウェブカメラ AI搭載 自動追跡 1/2.8 CMOS HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows
 18,530円
 
  * @<href>{https://www.amazon.co.jp/dp/B0DMF4GLR8}
@@ -174,6 +174,30 @@ BRID DUCT RAIL FAN DC plus φ50（003329）は@<ttb>{16,940円}でした。
 == 遮光ブラインド
 
 窓ガラスの手前にこの「Guard Total Blackout Blinds」という遮光ブラインドを付けた。
+
+
+Order summary
+	Guard Total Blackout Blinds × 1
+Graphite
+$249
+
+	Guard Total Blackout Blinds × 1
+Graphite
+$249
+
+Subtotal
+
+$498
+Shipping
+
+$0
+Taxes
+
+$0
+Total
+
+$498 USD
+
 
  * @<href>{https://guardblinds.com/products/guard-total-blackout-blinds}
 
