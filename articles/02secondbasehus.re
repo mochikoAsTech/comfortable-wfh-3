@@ -53,41 +53,44 @@ ErgotronのTRACEモニターマウント ブラック（45-630-224）は@<ttb>{5
 
  * @<href>{https://item.rakuten.co.jp/ergotron/e1r010k/}
 
-== AI搭載4Kウェブカメラ
+== AI搭載フルHDウェブカメラ
 
-先に私の書斎で使ってみたOBSBOT Tiny SEがよかったので、夫も同じものを購入。（@<img>{obsbotTinySeHus}）
+先に私の書斎で使ってみたOBSBOT Tiny SE@<fn>{tinyse}がよかったので、夫も同じものを購入。（@<img>{obsbotTinySeHus}）
+
+//footnote[tinyse][私の書斎のOBSBOT Tiny SEは@<chapref>{01secondbase}の@<hd>{01secondbase|obsbotTinySe}を参照。]
 
 //image[obsbotTinySeHus][使っていないときはカメラ部分が勝手に下を向いてうなだれる][scale=0.6]{
 //}
 
-OBSBOT TINY SE ウェブカメラ 1080P 100FPS 60PFS フルHD ウェブカメラ AI搭載 自動追跡 1/2.8 CMOS HDR 位相差検出AF フィルター加工 ノイズ低減 会議 ライブ配信 ビデオ通話 PC Mac Windows
-18,530円
+OBSBOT TINY SEは@<ttb>{18,530円}でした。
 
  * @<href>{https://www.amazon.co.jp/dp/B0DMF4GLR8}
  
-== キーボード
+== メカニカルキーボード
 
-KOBO-UB01-MPS-NFMB3【4228】
-Majestouch 3 BLACK Tenkeyless 「漆/漆黒」SILENT RED 静音赤軸・テンキーレス・日本語かななし
+2拠点目の書斎では、夫が自宅でも愛用しているFILCOのMajestouch@<fn>{customkeyboard}の中でも、印字がキートップ前面にあるBLACKシリーズのキーボードを使用。普通のキーボードと違って印字されている部分に指が触れないため、摩擦で印字が削れていくようなことがない。（@<img>{keyboardHus}）
 
-FILCOキーボード工房 | 漆・漆黒 七分艶モデル
+//footnote[customkeyboard][「最高のおうちオフィスではたらく」の「3.6 カスタムキーボード」を参照。]
 
-KOBO-UB01-MPS-NFMB3【4228】
-22,500円
+//image[keyboardHus][真上から見ると無刻印みたいに見える][scale=0.8]{
+//}
+
+FILCOのMajestouch 3 BLACK Tenkeyless 漆・漆黒 七分艶モデル 静音赤軸 テンキーレス 日本語かななし（KOBO-UB01-MPS-NFMB3 4228）は@<ttb>{22,500円}でした。
 
  * @<href>{https://www.diatec.co.jp/shop/kobo/ursblack.php?page=9}
 
-== マウス
+== エルゴノミックマウス
 
+自宅で長く愛用しているMX VERTICALというカタツムリみたいなマウスを2拠点目でも使用。（@<img>{mxvertical}）
 
-	
-ロジクール Logicool
-MX Vertical アドバンス エルゴノミック ワイヤレスマウス グラファイト MXV1s
+//image[mxvertical][長く使ってもべたつかない後継モデルが出てほしい][scale=0.8]{
+//}
 
-￥12,610
-x2で￥25,220	
+長く使っていると加水分解でべたついてくるので、後継モデルが出ることを期待しつつ定期的に買い直しているのだが、一向に出る気配がないのでむしろそろそろ販売終了になったりするんじゃなかろうかと怖くなって予備も含めて2つ買っていた。
 
-https://www.yodobashi.com/product/100000001004035691/
+LogicoolのMX VERTICALアドバンス エルゴノミック ワイヤレスマウス（MXV1s）は12,610円が2つで@<ttb>{25,220円}でした。
+
+ * @<href>{https://www.yodobashi.com/product/100000001004035691/}
 
 == デスクマット
 
