@@ -50,11 +50,9 @@ mochikoAsTech
 
 === レビュアー
 
- * 誰か
-
-//pagebreak
-
-=== 参考文献
-
- * 書名 - 著者
- ** @<href>{https://example.com}
+ * nasa9084
+ * tikawa
+ * yujimoto
+ * tonoyama
+ * ma2ri__
+ * chiqashi

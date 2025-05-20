@@ -194,7 +194,7 @@ Starlinkアンテナ 標準フラット 第3世代ルーター付きは55,000円
 //image[apc550][既に自宅で実績のあるAPC ES 550を私のデスク脇に設置][scale=1]{
 //}
 
-私の書斎に置いたAPC ES 550（BE550M1-JP）は17,800円、ルーターの手前に置いたAPC ES 425VA（BE425M-JP）は10,200円で、合計@<ttb>{28000円}でした。
+私の書斎に置いたAPC ES 550（BE550M1-JP）は17,800円、ルーターの手前に置いたAPC ES 425VA（BE425M-JP）は10,200円で、合計@<ttb>{28,000円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001003421211/}
  * @<href>{https://www.yodobashi.com/product/100000001003421210/}
