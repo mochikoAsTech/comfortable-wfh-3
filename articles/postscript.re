@@ -46,7 +46,7 @@ mochikoAsTech
  * ダウンロードURL
  ** @<href>{https://mochikoastech.booth.pm/items/6946667}
  * パスワード
- ** @<ttb>{CleverCat2025}
+ ** @<ttb>{****}
 
 == Special Thanks:
 
